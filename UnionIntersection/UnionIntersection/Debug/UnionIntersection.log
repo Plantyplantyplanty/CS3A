@@ -1,0 +1,15 @@
+﻿  Source.cpp
+C:\Users\Manth\source\repos\UnionIntersection\UnionIntersection\Source.cpp(212,4): warning C4101: 'to_compare': unreferenced local variable
+C:\Users\Manth\source\repos\UnionIntersection\UnionIntersection\Source.cpp(75): message : see reference to function template instantiation 'void the_union<int>(T [],int,T [],int,T [],int &)' being compiled
+          with
+          [
+              T=int
+          ]
+C:\Users\Manth\source\repos\UnionIntersection\UnionIntersection\Source.cpp(208,6): warning C4101: 'smaller': unreferenced local variable
+C:\Users\Manth\source\repos\UnionIntersection\UnionIntersection\Source.cpp(167,6): warning C4101: 'smaller': unreferenced local variable
+C:\Users\Manth\source\repos\UnionIntersection\UnionIntersection\Source.cpp(79): message : see reference to function template instantiation 'void the_intersection<int>(T [],int,T [],int,T [],int &)' being compiled
+          with
+          [
+              T=int
+          ]
+  UnionIntersection.vcxproj -> C:\Users\Manth\source\repos\UnionIntersection\Debug\UnionIntersection.exe
