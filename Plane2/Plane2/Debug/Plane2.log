@@ -1,0 +1,12 @@
+﻿  Source2.cpp
+C:\Users\Manth\source\repos\Plane2\Plane2\2DPointerLibrary.h(60,1): warning C4305: 'return': truncation from 'int' to 'T'
+          with
+          [
+              T=bool
+          ]
+C:\Users\Manth\source\repos\Plane2\Plane2\Source2.cpp(97): message : see reference to function template instantiation 'T read<bool>(const int *,T **,const int,const int,const int)' being compiled
+          with
+          [
+              T=bool
+          ]
+  Plane2.vcxproj -> C:\Users\Manth\source\repos\Plane2\Debug\Plane2.exe
