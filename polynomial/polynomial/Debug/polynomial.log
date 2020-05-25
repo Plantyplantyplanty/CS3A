@@ -1,0 +1,4 @@
+﻿  polynomial.cpp
+C:\Users\Manth\source\repos\polynomial\polynomial\polynomial.cpp(55,13): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Manth\source\repos\polynomial\polynomial\polynomial.cpp(83,13): warning C4018: '<=': signed/unsigned mismatch
+  polynomial.vcxproj -> C:\Users\Manth\source\repos\polynomial\Debug\polynomial.exe
